@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ipfs-app/static/js/main.1ae641ed.js",
+    "index.html": "/ipfs-app/index.html",
+    "main.1ae641ed.js.map": "/ipfs-app/static/js/main.1ae641ed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ae641ed.js"
+  ]
+}
